@@ -2,7 +2,17 @@
   "name": "travel-site",
   "version": "1.0.0",
   "dependencies": {
+    "browser-sync": "^2.18.12",
     "jquery": "^3.2.1",
     "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-import": "^10.0.0",
+    "postcss-mixins": "^6.0.0",
+    "postcss-nested": "^2.0.2"
   }
 }
