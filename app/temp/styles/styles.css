@@ -668,7 +668,7 @@ a {
 
 @media (min-width: 1010px) {
       .page-section--testimonials.lazyloaded {
-        background: url("/assets/images/testimonials-bg.jpg") top center no-repeat;
+        background: url("../../assets/images/testimonials-bg.jpg") top center no-repeat;
         background-size: cover;
       }
   }
@@ -1012,11 +1012,11 @@ a {
 Instead edit gulp/templates/sprite */
 
 .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.svg');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.svg');
     }
 
 .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
 
 .icon--clear-view-escapes {
@@ -1384,7 +1384,7 @@ Instead edit gulp/templates/sprite */
   position: fixed;
   z-index: 5;
   background-color: rgba(255, 255, 255, .94);
-  top:0;
+  top: 0;
   bottom: 0;
   left: 0;
   right: 0;
@@ -1401,7 +1401,6 @@ Instead edit gulp/templates/sprite */
     visibility: visible;
     -webkit-transform: scale(1);
             transform: scale(1);
-
   }
 
 .modal__inner {
