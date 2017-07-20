@@ -5,13 +5,10 @@
     "browser-sync": "^2.18.12",
     "del": "^3.0.0",
     "jquery": "^3.2.1",
-<<<<<<< HEAD
+    "jquery-smooth-scroll": "^2.2.0",
+    "lazysizes": "^4.0.0-rc3",
     "normalize.css": "^7.0.0",
     "waypoints": "^4.0.1"
-=======
-    "jquery-smooth-scroll": "^2.2.0",
-    "normalize.css": "^7.0.0"
->>>>>>> sticky-header
   },
   "devDependencies": {
     "autoprefixer": "^7.1.1",
@@ -27,6 +24,7 @@
     "postcss-import": "^10.0.0",
     "postcss-mixins": "^6.0.0",
     "postcss-nested": "^2.0.2",
+    "postcss-simple-vars": "^4.0.0",
     "webpack": "^3.3.0"
   }
 }
